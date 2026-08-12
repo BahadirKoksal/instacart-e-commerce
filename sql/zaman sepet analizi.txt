@@ -1,0 +1,7 @@
+Zaman Dilimi & Mutfak Tercihleri Analizi
+
+En Yüksek Hacim: Siparişlerin %40,59'u Öğle (12:00 - 16:59) saatlerinde gerçekleşmektedir.
+
+Sadakat Lideri: Sabah (06:00 - 11:59) siparişleri %61,1 ile en yüksek tekrar sipariş (reorder) oranına sahiptir.
+
+En Derin Sepet: Gece alışverişlerinde sipariş hacmi düşük (%4,8) olmasına karşın, sepet başı ortalama ürün adedi 10,6 ile en yüksek seviyededir.
