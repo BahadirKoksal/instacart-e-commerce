@@ -1,0 +1,27 @@
+Öne Çıkan Temel Bulgular
+
+1. Trafik ve Sipariş Yoğunluğu (Prime Time)
+Zirve Saatler: Günün en yoğun dönemi %40.59 pay ve 1.3 milyon+ sipariş ile Öğle / Öğleden Sonra (12:00 - 16:59) dilimidir.
+
+Sabah Hacmi: Sabah saatleri (06:00 - 11:59) %33.19 ile ikinci sırada yer alarak günün ilk yarısında toplam siparişlerin %73.78'inin tamamlandığını göstermektedir.
+
+Gece Durgunluğu: Gece dilimi (22:00 - 05:59) beklendiği üzere toplam siparişlerin yalnızca %4.8'ini oluşturmaktadır.
+
+2. Ürün Tercihleri ve Dominasyon
+Değişmeyen Liderler: Tüm zaman dilimlerinde en çok satan departman produce (Taze Gıda), en çok satan reyon ise fresh fruits (Taze Meyveler) olmuştur. Meyve ve taze gıda alışverişi, saatten bağımsız olarak platformun ana çekim gücüdür.
+
+3. Sepet Boyutu ve Sadakat (Tekrar Sipariş)
+Kararlı Sepet Boyutu: Sepet başı ortalama ürün adedi tüm gün boyunca son derece kararlıdır (9.8 - 10.6 ürün). Gece siparişlerinde sepet ortalamasının 10.6 ile en yüksek seviyede olması dikkat çekicidir.
+
+Sabah Sadakati: Tekrar sipariş oranı (%61.1) en yüksek olan dilim Sabah saatleridir. Müşteriler sabah saatlerinde daha alışılagelmiş, rutin alışverişlerini (kahvaltılık, taze meyve vs.) tekrarlama eğilimindedir.
+
+
+
+
+Aksiyon Alınabilir Stratejik Öneriler
+
+Kurye ve Operasyon Planlaması: Operasyonel kaynakların (depo personeli, kurye, teslimat slotları) %73.78'i 06:00 - 16:59 saatleri arasına yönlendirilmelidir.
+
+Sabah Kampanyaları & Abonelikler: Sabah dilimindeki yüksek tekrar sipariş oranı (%61.1), bu saatlerde düzenli ihtiyaçların alındığını gösterir. Otomatik / haftalık tekrarlayan sipariş abonelikleri bu kitleye sunulabilir.
+
+AOV (Ortalama Sepet Tutarı) Artırma: Akşam saatlerinde ortalama ürün adedi 9.8'e düşmektedir. Akşam diliminde "Sepete Ekle" önerileri (örn. akşam yemeği malzemeleri, atıştırmalıklar) ile sepet boyutu artırılabilir.
